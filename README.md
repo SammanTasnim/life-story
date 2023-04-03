@@ -1,2 +1,2 @@
 # life-story
-this repo contains nothing. dont open it.
+this repo contains nothing. 
